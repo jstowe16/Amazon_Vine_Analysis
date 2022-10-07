@@ -18,6 +18,6 @@ Only review identifications with greater than 20 total votes were used. The resu
 ![img](Images/Vine_bias.png)
 
 ## Summary
-The results above show that, based on the percentage of 5 star Vine reviews being X% and 5 start non-Vine reviews being X%, that there may be a bias in Amazon tools product reviews from customers that are also included in the Vine program. However, similar analysis for additional product sub-sets should be compiled along with tools to determine the extent of the observed potential bias.
+The results above show that, based on the percentage of 5 star Vine reviews being 56% and 5 start non-Vine reviews being 46%, that there may be a bias in Amazon tools product reviews from customers that are also included in the Vine program. However, similar analysis for additional product sub-sets should be compiled along with tools to determine the extent of the observed potential bias.
 
 Additional analysis could be completed to investigate the bias toward products of the same brand from customers participating in the Vine program but for other distinct products. This would help identify the extent of the Vine bias beyond just the reviews for the directly paid  for products.
